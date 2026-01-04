@@ -1,2 +1,3 @@
-# html-bg
-this is a test repo to put my html project
+# fullstack-demo
+this is my first git repository
+Author:B.G
